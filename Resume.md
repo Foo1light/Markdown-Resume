@@ -7,7 +7,7 @@
         </span>
         ·
         <span>
-            <img src="assets/weixin.svg" width="18px">
+            <img src="assets/weixin.png" width="18px">
             微信号：15218734799
         </span>
         ·
