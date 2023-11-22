@@ -16,7 +16,7 @@
             ldh72808168@gmail.com
         </span>
         <span>
-            <img src="assets/linkedin.svg" width="18px">
+            <img src="linkedin.png" width="18px">
             <a href="https://www.linkedin.com/in/%E5%86%AC%E6%98%8A-%E6%9D%8E-b0bb882a0/">LinkedIn</a>
         </span>
     </div>
@@ -53,7 +53,7 @@
     - 通过模拟用户操作、解析网页结构和跳转通知，提高了抢票成功率。
     - 进行了多轮测试和优化，确保脚本的稳定性和可靠性，成功帮助同学购买入场门票，节省50%的费用。
 
-## <img src="assets/tools-solid.svg" width="20px"> 课外活动
+## <img src="sport.svg" width="20px"> 课外活动
 
 - **日本自助游**
   - *组织者*，2023.07~2023.08
@@ -62,7 +62,7 @@
     - 负责行程安排、预订交通和住宿，以及提供目的地文化、美食等方面的咨询。
     - 与同学们保持紧密沟通，确保整个旅行过程顺利愉快。
 
-## <img src="assets/comment-solid.svg" width="20px"> 其他
+## <img src="assets/envelope-solid.svg" width="20px"> 其他
 
 - 语言能力
   - 英语四级：526分
